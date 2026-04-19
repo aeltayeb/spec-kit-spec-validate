@@ -3,10 +3,10 @@ schema_version: "1.0"
 extension:
   id: "spec-validate"
   name: "Spec Validate"
-  version: "1.0.0"
+  version: "1.0.1"
   description: "Comprehension validation, review gating, and approval state for spec-kit artifacts"
-  author: "spec-kit community"
-  repository: "https://github.com/spec-kit/spec-kit-spec-validate"
+  author: "Ahmed Eltayeb"
+  repository: "https://github.com/aeltayeb/spec-kit-spec-validate"
   license: "MIT"
 
 requires:
