@@ -1,0 +1,4 @@
+tests/
+*.bats
+.git/
+node_modules/
